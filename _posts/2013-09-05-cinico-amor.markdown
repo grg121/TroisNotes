@@ -22,7 +22,7 @@ El mismo cinismo de cada suspiro.
 Este cínico amor.
  
 ```
-N.
+N. Septiembre 2014
 
 ```
 Este cínico amor,
@@ -65,4 +65,4 @@ y nada.
 Me da igual, me encanta tu cinismo, y el mío,
 pero cada uno por su lado.
 ```
-P.
+P. ¿Junio? 2015
