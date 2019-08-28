@@ -5,11 +5,13 @@ date: 2019-07-5
 description: No lo sé. Me suenan a lluvia y a pedazos del querer. 
 image: /assets/images/manos.jpg
 author: Francisco Navarro
+type: poesia
 tags:
+- "2019"
 ---
 
-```
 ¿A qué suenan sus manos?
+```
 No lo sé.
 Me suenan a lluvia y a pedazos
 del querer.

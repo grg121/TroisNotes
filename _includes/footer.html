@@ -2,43 +2,65 @@
 <footer class="footer section-padding">
   <div class="grid">
 
-      <h3>
+    <h5>
       LE SECRET DU REFLET
-      </h3>
- 
-          "Un reflet sur les yeux </br>
-          Révélait les couleurs</br>
-          Imprégnés de douceur</br>
-          </br>
-          Il m'a dit</br>
-          Qu'il brille pour</br>
-          Notres rires</br>
-          </br>
-          Il m'a dit </br>
-          Qu'il veut nous</br>
-          Découvrir</br>
-          </br>
-          Il peuplait...</br>
-          Le bleu, soyeux,</br>
-          Tout le temps, Tous les lieux,</br>
-          La mer, la fraîche</br>
-          Tous les faits, Tous les voeux</br>
-          </br>
-          Il m'a dit</br>
-          "Trois notes sont</br>
-          Mélodie"</br>
-          </br>
-          Il m'a dit </br>
-          "Viens, tu peux</br>
-          soit tranquille.</br>
-          </br>
-          J'ai caché un secret.</br>
-          Tout le miel, Tout le ciel,</br>
-          Dans les deux, Sur les yeux."
+    </h5>
 
-          <h4>C.</h4>
 
-    <hr class="sep--white"/>
+    <table style="width:100%">
+      <tr>
+        <td>
+
+          <p style="font-size:15px">
+            Un reflet sur les yeux </br>
+            Révélait les couleurs</br>
+            Imprégnés de douceur</br>
+            </br>
+            Il m'a dit</br>
+            Qu'il brille pour</br>
+            Notres rires</br>
+            </br>
+            Il m'a dit </br>
+            Qu'il veut nous</br>
+            Découvrir</br>
+            </br>
+            Il peuplait...</br>
+            Le bleu, soyeux,</br>
+            Tout le temps, Tous les lieux,</br>
+            </br>
+
+        </td>
+        <td>
+
+
+          <p style="font-size:16px">
+            La mer, la fraîche</br>
+            Tous les faits, Tous les voeux</br>
+
+          </br>
+
+            Il m'a dit</br>
+            <strong>
+                "Trois notes sont</br>
+                Mélodie"</br>
+                </br>
+            </strong>
+            Il m'a dit </br>
+            "Viens, tu peux</br>
+            soit tranquille.</br>
+            </br>
+            J'ai caché un secret.</br>
+            Tout le miel, Tout le ciel,</br>
+            Dans les deux, Sur les yeux."
+          </p>
+
+        </td>
+      </tr>
+    </table>
+
+    <h6>Carmeni Arias.</h6>
+
+    <hr class="sep--white" />
 
     <div class="footer__container">
       {% tags_list :threshold => 1, :sort_by => count, :order_by => desc, :limit => 5 %}
@@ -51,9 +73,9 @@
 {% include contact.html %}
 
 {% if paginator.next_page %}
-  <script>
-    var maxPages = parseInt('{{ paginator.total_pages }}');
-  </script>
+<script>
+  var maxPages = parseInt('{{ paginator.total_pages }}');
+</script>
 {% endif %}
 
 <script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "La vida es un muelle"
+date: 2014-01-19
+description: "La vida es un muelle"
+image: /assets/images/muelle.jpg
+author: Francisco Navarro
+type: prosa
+tags:
+- "2014"
+- "loquequedaporquemar"
+---
+
+```
+"La vida es un muelle. O más bien la felicidad. Cada persona tiene un muelle interior que se alarga o se comprime según actúen sobre el distintas fuerzas. En mi opinión, para que este símil tenga verdadero sentido, debemos considerar que la felicidad absoluta supondría comprimir el muelle hasta que este no existiera, y la mayor de las tristezas... no existiría, puesto que el infinito existe en nuestras cabezas.
+Por lo general las fuerzas que nos rodean compiten por contraer o estirar nuestro muelle, y  cómo diría mi amiguito Hooke, cada persona es más fácil o más difícil de estirar o comprimir atendiendo a su constante de alargamiento (Joder como aprovecho para meter cosas del examen juas, juas...) sin embargo nadie tiene una constante bien definida, las fuerzas que en su día actuaron sobre nosotros, nos hacen levantar muros en nuestras cabezas, o nos sirven de inmunodepresores frente al ataque de nuevos sentimientos...
+Además, por mucho que los amantes se empeñen en tratar de medir sus sentimientos como si fueran una magnitud escalar, en realidad el querer no es más que el mayor fraude dentro de las magnitudes vectoriales: Tiene dirección (multitud de direcciones) y sentido (positivo o negativo), incluso punto de aplicación (normalmente asociado al corazón y no a la cabeza, no sabría decir por qué), pero su módulo tiende a infinito (y a cero al mismo tiempo).
+En definitiva, el amor, el querer, el odio... los sentimientos... no responden a nada cuantitativo... o tangible pero para nuestra comparación, digamos que son los sentimientos los que nos comprimen o nos estiran como muelles. Pero somos elásticos... cuando una fuerza que te comprime te suelta, vuelves al punto de partida, si lo piensas, no has perdido nada, al contrario, esa fuerza te mantuvo en un estado mejor que tu estado inicial durante un tiempo, y ahora no has hecho otra cosa que volver al principio. Claro que aquí llega lo que yo llamo "efecto rebote" no sé como lo llamarán los físicos de verdad, o si existe siquiera, pero yo no lo soy y me invento los términos y leyes que me da la gana: Cuando tu muelle (que estaba estirado) vuelve a su posición de origen, la velocidad que adquiere a medida que va perdiendo la energía potencial que aquél sentimiento le otorgó, no frena en seco, sino que sobrepasa aquél punto de inicio y se estira, llevándote a un punto peor que el del principio, de modo que pienses que aquella fuerza no te ha hecho bien sino mal... pero es solo cuestión de tiempo, lo que a un muelle emocional puede durarle días, meses o años (pobre del que necesite tanto tiempo) en un muelle normal es casi imperceptible, el muelle sobrepasa el punto de partida y se alarga (lo que, si lo pensamos como estar  volando o hundirse, supondría hundirse... hondo.) pero vuelve a contraerse, menos que la primera vez... luego se estira y se contrae y se estira y se contrae, y cada vez se estira menos, y se contrae menos (bendito rozamiento, también llamado tiempo) . Finalmente, vuelve al punto de partida y entonces... entonces decides si volver a apretar el muelle (aún a sabiendas de que al soltarlo volverá a estirajarse...) o simplemente procurar que nada vuelva a tirar de él... porque todos sabemos (y para esto no hay que ser físico, ni real ni imaginario, ni intento, ni suplanto) que todo cuerpo elástico tiene un límite de elasticidad... y que si se estira por encima de este límite, nunca volverá a ser el mismo... supongo que eso es lo que llaman locura...."
+```
