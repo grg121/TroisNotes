@@ -7,8 +7,7 @@ image: /assets/images/gear.jpg
 author: Francisco Navarro
 type: poesia
 tags:
-- "2014"
-- "loquequedaporquemar"
+- "2019"
 ---
 
 
