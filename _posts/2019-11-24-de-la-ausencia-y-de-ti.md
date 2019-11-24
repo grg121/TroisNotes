@@ -69,8 +69,9 @@ Te quiero porque anhelo un mundo mejor
 dónde no se hable de las ausencias,
 pero si de ti.
 
-
-
-
-
 ```
+
+Sé que probablemente la mitad de mis sueños acaben en el cubo de la basura, y que las personas al final, en su mayoría serán solo recuerdos. Sé que puede existir el día en que mi enamorada esté lejos de mí y mis amores me hayan olvidado. Sé que el futuro puede parecernos incierto y que mi camino, el que yo he elegido, quizá me traiga muchas expectativas frustradas y varias decepciones, pero soy feliz con ello. Porque amo el amor y la forma de amar que yo he elegido. Y amo a la gente que me hace sentir afortunado de haberles conocido y de haberles hecho un huequito en mi pecho.
+
+Quizá tengas razón en muchas cosas. A veces yo mismo siento que no me quiero lo suficiente. Estoy trabajando por cambiar todo esto. Pero no le tengo miedo al futuro porque el amor forma parte de mí, este amor, el que yo he elegido, tal y como lo he hecho. Y me da igual poder no ser correspondido, me da igual no tener claro mi sitio. Me da igual ser un incomprendido, me da igual mientras siga sintiendo todo esto tan bonito dentro de mi. Porque las frustraciones que tengo a día de hoy no son nada comparadas con todo lo que me aporta mi forma de amar. Porque a amar se aprende amando y para amar a veces hay que dejarse llevar y ser un idiota inconsciente. A veces hay que adaptarse a los demás y sacrificar tu comodidad por ellos. Y merece la pena, estoy seguro de que merece la pena.
+
