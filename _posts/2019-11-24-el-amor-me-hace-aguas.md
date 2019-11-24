@@ -5,7 +5,7 @@ date: 2018-09-07
 description: ""
 image: /assets/images/sink.jpg
 author: Francisco Navarro
-type: prosa
+type: poesia
 tags:
 - "2019"
 ---
