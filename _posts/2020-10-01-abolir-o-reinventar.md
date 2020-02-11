@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Amor romántico: abolir o reinventar"
-date: 2020-10-01
-description: ""
+date: 2020-01-10
+description: "La razón de ser de este posible, y más que probable, dolor; radica en que el amor nos hace vulnerables."
 image: /assets/images/romantico.png
 author: Francisco Navarro
 type: prosa
