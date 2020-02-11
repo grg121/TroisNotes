@@ -2,7 +2,9 @@
 layout: post
 title: "Otro tipo de soledad"
 date: 2010-05-09
-description: "o"
+description: "Una soledad
+que nunca me atrapa pero
+siempre está presente."
 image: /assets/images/otrotipodesoledad.jpg
 author: Francisco Navarro
 type: poesia
