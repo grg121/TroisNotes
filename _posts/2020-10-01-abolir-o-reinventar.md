@@ -7,7 +7,8 @@ image: /assets/images/romantico.png
 author: Francisco Navarro
 type: prosa
 tags:
-- "2020", "california"
+- "2020"
+- "california"
 ---
 *El amor romántico es el sentimiento expresivo y generalmente placentero de una atracción emocional hacia otra persona. Este sentimiento está asociado con, pero no requiere, atracción sexual. Históricamente, el término "romance" se origina en el ideal medieval de la caballería como se establece en su literatura de romance caballeresco.
 
