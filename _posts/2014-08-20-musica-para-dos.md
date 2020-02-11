@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Música para dos, no más canciones de amor. "
-date: 2014-01-19
+date: 2014-08-20
 description: "Parados, tumbados en el centro de una herida. ¿Por qué no?"
 image: /assets/images/muelle.jpg
 author: Francisco Navarro
