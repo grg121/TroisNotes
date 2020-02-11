@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ninguna rima buena"
-date: 2015-23-12
+date: 2015-12-23
 description: "No es mi vida un poema. No hay ninguna rima buena"
 image: /assets/images/rimas.jpg
 author: Francisco Navarro

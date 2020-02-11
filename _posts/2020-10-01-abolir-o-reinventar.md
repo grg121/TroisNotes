@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Amor romántico: abolir o reinventar"
-date: 2020-01-10
+date: 2020-10-01
 description: ""
-image: /assets/images/policarbonato.png
+image: /assets/images/romantico.png
 author: Francisco Navarro
 type: prosa
 tags:
