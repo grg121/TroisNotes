@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PC (Policarbonato)"
-date: 2019-01-29
+date: 2014-01-29
 description: "El policarbonato se obtiene del ácido carbónico. Es transparente, con brillo elevado, se colorea con facilidad. Permite el paso de la luz en más de un 90% por lo que resulta ideal como sustituto de los cristales, ya que además tiene gran resistencia al impacto. Posee una gran resistencia mecánica, tenacidad y rigidez. No produce astillas cuando se rompe."
 image: /assets/images/policarbonato.png
 author: Francisco Navarro
