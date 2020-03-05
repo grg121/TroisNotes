@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cínico amor"
-date: 2014-09-05
+date: 2013-09-05
 description: "Me encanta tu cinismo, el mío."
 image: /assets/images/cinicoamor.jpg
 author: Francisco Navarro

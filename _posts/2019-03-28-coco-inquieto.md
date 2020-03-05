@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coco inquieto "
-date: 2010-03-28
+date: 2019-03-28
 description: "escucha que el tiempo ya dirá."
 image: /assets/images/cococo.jpg
 author: Francisco Navarro

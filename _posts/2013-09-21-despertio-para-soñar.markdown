@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Despierto solo para seguir soñando"
-date: 2014-01-21
+date: 2013-01-21
 description: "Camino solo y te busco.  Despierto solo para seguir soñando. Me adentro en mares profundos buscando el agua que moja tus labios… "
 image: /assets/images/despiertosolo.jpg
 author: Francisco Navarro

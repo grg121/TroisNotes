@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Otro tipo de soledad"
-date: 2010-05-09
+date: 2019-05-09
 description: "Una soledad
 que nunca me atrapa pero
 siempre está presente."

@@ -2,10 +2,10 @@
 email: navarromoralesdev@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics:
 
 name: Francisco Navarro
-title: Trois notes sont mélodie 
+title: Trois notes sont mélodie
 description: >
   Mi web personal para compartir poemillas y otros escritos varios.
 url: https://trois-notes.netlify.com/
