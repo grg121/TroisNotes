@@ -43,7 +43,7 @@ author:
 pagination:
   enabled: true
   debug: false
-  per_page: 12
+  per_page: 50
   permalink: '/page/:num/'
   title: ':title'
   limit: 0
@@ -56,7 +56,7 @@ autopages:
   collections:
     enabled: false
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
     title: 'Trois Notes Sont Mélodie'
     permalink: '/tag/:tag'
